@@ -3,7 +3,6 @@
 const Dotenv = require('dotenv');
 const Confidence = require('@hapipal/confidence');
 const Toys = require('@hapipal/toys');
-const Schwifty = require('@hapipal/schwifty');
 
 // Pull .env into process.env
 Dotenv.config({ path: `${__dirname}/.env` });
@@ -13,14 +12,14 @@ module.exports = new Confidence.Store({
     server: {
         host: 'localhost',
         port: {
-            $param: 'PORT',
+            $env: 'PORT',
             $coerce: 'number',
             $default: 3000
         },
         debug: {
-            $filter: 'NODE_ENV',
+            $filter: { $env: 'NODE_ENV' },
             $default: {
-                log: ['error', 'start'],
+                log: ['error'],
                 request: ['error']
             },
             production: {
@@ -33,6 +32,9 @@ module.exports = new Confidence.Store({
             {
                 plugin: '../lib', // Main plugin
                 options: {}
+            },
+            {
+                plugin: './plugins/swagger'
             },
             {
                 plugin  : '@hapipal/schwifty',
@@ -49,9 +51,6 @@ module.exports = new Confidence.Store({
                                 password : process.env.DB_PASSWORD || 'hapi',
                                 database : process.env.DB_DATABASE || 'user',
                                 port     : process.env.DB_PORT || 3307
-                            },
-                            migrations: {
-                                stub: Schwifty.migrationsStubPath
                             }
                         }
                     },
@@ -63,27 +62,11 @@ module.exports = new Confidence.Store({
             },
             {
                 plugin: {
-                    $filter: 'NODE_ENV',
+                    $filter: { $env: 'NODE_ENV' },
                     $default: '@hapipal/hpal-debug',
                     production: Toys.noop
                 }
-            },
-            {
-                plugin: 'hapi-swagger',
-                options: {
-                    info: {
-                        title: 'API Documentation',
-                        version: '1.0.0'
-                    }
-                }
-            },
-            {
-                plugin: 'inert'
-            },
-            {
-                plugin: 'vision'
             }
-
         ]
     }
 });

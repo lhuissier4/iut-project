@@ -17,6 +17,7 @@
   "dependencies": {
     "@hapi/boom": "9.x.x",
     "@hapipal/haute-couture": "4.x.x",
+    "@hapipal/schmervice": "^3.0.0",
     "@hapipal/schwifty": "6.x.x",
     "exiting": "6.0.1",
     "joi": "17.x.x",
@@ -34,7 +35,7 @@
     "@hapi/glue": "8.x.x",
     "@hapi/hapi": "20.x.x",
     "@hapi/hoek": "9.x.x",
-    "@hapi/inert": "6.x.x",
+    "@hapi/inert": "^6.0.5",
     "@hapi/lab": "23.x.x",
     "@hapi/vision": "6.x.x",
     "@hapipal/confidence": "6.x.x",
