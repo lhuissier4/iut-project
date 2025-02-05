@@ -66,7 +66,11 @@ module.exports = new Confidence.Store({
                     $default: '@hapipal/hpal-debug',
                     production: Toys.noop
                 }
+            },
+            {
+                plugin: '../lib/auth/default'
             }
+
         ]
     }
 });
