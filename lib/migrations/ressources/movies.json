@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Les Évadés",
+    "originalTitle": "The Shawshank Redemption",
+    "description": "Un homme condamné à tort à perpétuité pour meurtre se lie d'amitié avec un autre détenu.",
+    "releaseDate": "1994-09-23",
+    "director": "Frank Darabont",
+    "posterPath": "https://image.tmdb.org/t/p/w500/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  {
+    "title": "Le Parrain",
+    "originalTitle": "The Godfather",
+    "description": "L'ascension et la chute d'une puissante famille mafieuse italo-américaine.",
+    "releaseDate": "1972-03-24",
+    "director": "Francis Ford Coppola",
+    "posterPath": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "title": "Titanic",
+    "originalTitle": "Titanic",
+    "description": "L'histoire d'amour entre Jack et Rose à bord du tristement célèbre paquebot Titanic.",
+    "releaseDate": "1997-12-19",
+    "director": "James Cameron",
+    "posterPath": "https://image.tmdb.org/t/p/w500/kHXEpyfl6zqn8a6YuozZUujufXf.jpg"
+  },
+  {
+    "title": "Le Chevalier Noir",
+    "originalTitle": "The Dark Knight",
+    "description": "Batman doit affronter le Joker, un criminel chaotique qui cherche à semer l'anarchie à Gotham.",
+    "releaseDate": "2008-07-18",
+    "director": "Christopher Nolan",
+    "posterPath": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "originalTitle": "Pulp Fiction",
+    "description": "Plusieurs histoires criminelles s'entrecroisent dans un Los Angeles sombre et absurde.",
+    "releaseDate": "1994-10-14",
+    "director": "Quentin Tarantino",
+    "posterPath": "https://image.tmdb.org/t/p/w500/tptjnBsljrIRh5EdUXQW2k6qfLs.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "originalTitle": "Forrest Gump",
+    "description": "L'histoire touchante d'un homme simple au grand cœur traversant les événements majeurs de l'histoire américaine.",
+    "releaseDate": "1994-07-06",
+    "director": "Robert Zemeckis",
+    "posterPath": "https://image.tmdb.org/t/p/w500/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg"
+  },
+  {
+    "title": "La Liste de Schindler",
+    "originalTitle": "Schindler's List",
+    "description": "Un industriel allemand sauve plus d'un millier de Juifs des camps de concentration pendant la Seconde Guerre mondiale.",
+    "releaseDate": "1993-12-15",
+    "director": "Steven Spielberg",
+    "posterPath": "https://image.tmdb.org/t/p/w500/yPisjyLweCl1tbgwgtzBCNCBle.jpg"
+  },
+  {
+    "title": "Le Seigneur des Anneaux : Le Retour du Roi",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "description": "Frodon et Sam poursuivent leur quête pour détruire l'Anneau Unique, tandis que la grande bataille pour la Terre du Milieu commence.",
+    "releaseDate": "2003-12-17",
+    "director": "Peter Jackson",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "description": "Un employé de bureau insatisfait rencontre un mystérieux vendeur de savon et fonde un club de combat secret.",
+    "releaseDate": "1999-10-15",
+    "director": "David Fincher",
+    "posterPath": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "title": "Inception",
+    "originalTitle": "Inception",
+    "description": "Un voleur spécialisé dans l'extraction de secrets à travers les rêves doit implanter une idée dans l'esprit d'un homme d'affaires.",
+    "releaseDate": "2010-07-16",
+    "director": "Christopher Nolan",
+    "posterPath": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "originalTitle": "Interstellar",
+    "description": "Un groupe d'explorateurs traverse un trou de ver pour trouver une nouvelle planète habitable.",
+    "releaseDate": "2014-11-07",
+    "director": "Christopher Nolan",
+    "posterPath": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "originalTitle": "Gladiator",
+    "description": "Un général romain trahi devient un gladiateur et cherche à se venger de l'empereur responsable de la mort de sa famille.",
+    "releaseDate": "2000-05-05",
+    "director": "Ridley Scott",
+    "posterPath": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "title": "Les Affranchis",
+    "originalTitle": "Goodfellas",
+    "description": "L'ascension et la chute d'un gangster italo-américain au sein de la mafia de New York.",
+    "releaseDate": "1990-09-19",
+    "director": "Martin Scorsese",
+    "posterPath": "https://image.tmdb.org/t/p/w500/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"
+  },
+  {
+    "title": "Le Silence des Agneaux",
+    "originalTitle": "The Silence of the Lambs",
+    "description": "Une jeune agente du FBI sollicite l'aide d'un tueur en série manipulateur pour capturer un autre criminel.",
+    "releaseDate": "1991-02-14",
+    "director": "Jonathan Demme",
+    "posterPath": "https://image.tmdb.org/t/p/w500/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg"
+  },
+  {
+    "title": "Le Roi Lion",
+    "originalTitle": "The Lion King",
+    "description": "Un jeune lion doit retrouver sa place en tant que roi après la mort de son père.",
+    "releaseDate": "1994-06-24",
+    "director": "Roger Allers, Rob Minkoff",
+    "posterPath": "https://image.tmdb.org/t/p/w500/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  },
+  {
+    "title": "Le Labyrinthe de Pan",
+    "originalTitle": "El Laberinto del Fauno",
+    "description": "Une jeune fille découvre un monde fantastique alors que l'Espagne est sous un régime dictatorial en 1944.",
+    "releaseDate": "2006-10-11",
+    "director": "Guillermo del Toro",
+    "posterPath": "https://image.tmdb.org/t/p/w500/7AumX80qQAVM6R7zRrpD3FUnnQ3.jpg"
+  }
+]
