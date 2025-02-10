@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "Alice",
+    "lastName": "Dupont",
+    "username": "alicedupont",
+    "mail": "alice.dupont@example.com",
+    "password": "password123",
+    "scopes": ["user"]
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Martin",
+    "username": "bobmartin",
+    "mail": "bob.martin@example.com",
+    "password": "password123",
+    "scopes": ["admin", "user"]
+  }
+]
