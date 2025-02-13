@@ -21,6 +21,7 @@
     "@hapipal/schmervice": "^3.0.0",
     "@hapipal/schwifty": "6.x.x",
     "@rush33/iut-encrypt": "^1.0.0",
+    "csv-writer": "^1.6.0",
     "exiting": "6.0.1",
     "joi": "17.x.x",
     "mysql": "^2.18.1",
