@@ -15,17 +15,16 @@ Ce projet est une application Node.js basée sur **Hapi.js**, conçue pour gére
    npm install
    ```
 
-La configuration du mail se fait dans un fichier `.env` à la racine du projet.  
-Créez une addresse email sur [Ethereal](https://ethereal.email/) pour tester l'envoie de mail.
-Créez le fichier `.env` et ajoutez les variables suivantes :
+   La configuration du mail se fait dans un fichier `.env` à la racine du projet.  
+   Créez une addresse email sur [Ethereal](https://ethereal.email/) pour tester l'envoie de mail.
+   Créez le fichier `.env` et ajoutez les variables suivantes :
 
-
-```.env
-SMTP_HOST=smtp.ethereal.email
-SMTP_PORT=587
-SMTP_USER=youremail@ethereal.email
-SMTP_PASS=yourpassword
-```
+   ```.env
+   SMTP_HOST=smtp.ethereal.email
+   SMTP_PORT=587
+   SMTP_USER=youremail@ethereal.email
+   SMTP_PASS=yourpassword
+   ```
 
 ### Démarrer le serveur
 Démarrez le projet avec la commande suivante :
